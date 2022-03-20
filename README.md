@@ -22,19 +22,7 @@
 
 <hr>
 
-Emblemas.
-Para obter emblemas acesse o link abaixo:
-
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-
-
 <img height= "20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-
-Blocos
-
--  Para adicionar blocos, temos varias opções no link abaixo:
-
-https://github.com/anuraghazra/github-readme-stats#themes
 
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=Kywal)](https://github.com/Kywal/github-readme-stats)
 
