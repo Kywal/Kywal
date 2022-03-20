@@ -56,16 +56,10 @@ Blocos
 
 https://github.com/anuraghazra/github-readme-stats#themes
 
-- Após escolher seu bloco copie a URL e cole em seu README:
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=Kywal)](https://github.com/Kywal/github-readme-stats)
 
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
 
-- Mas não se esqueça que você deve editar com suas informações por exemplo:
-
-NOMEGIT= Kywal. 
-
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/hellenmas/github-readme-stats)
-
+<!--
 GIF
 - Encontre o gif que mais combina com você nesse link:
 
@@ -81,7 +75,7 @@ Imagem
 <img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_aqui">
 
 
-<!--
+
 **Kywal/Kywal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
