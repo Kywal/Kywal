@@ -27,17 +27,11 @@ Para obter emblemas acesse o link abaixo:
 
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 
--  Agora escolha a imagem qual você gostaria de usar e copie a sua URl.
 
--  Assim você deve criar uma tag por exemplo: img <img src="BadgeURLHere"
-
-*OBS Já deixei uma pronta abaixo.
-
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-
--  Agora basta copiar para seu README e a mágica acontece.
+<img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 Blocos
+
 -  Para adicionar blocos, temos varias opções no link abaixo:
 
 https://github.com/anuraghazra/github-readme-stats#themes
