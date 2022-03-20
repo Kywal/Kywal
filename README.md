@@ -22,21 +22,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelkywal)
 
-- Thanks for visiting.
-
-- Enjoy it!! o/
-
 ----------------------------------------------------------------------------------
-
-*OBS onde está escrito em maiúsculo você deve escrever suas informações:
-
-(SEU NOME) = Kywal.
-
-
-
-Aqui está alguns itens que você pode adicionar ao seu arquivo README para torná-lo mais atraente:
-
-Emblemas.
 Para obter emblemas acesse o link abaixo:
 
 https://github.com/alexandresanlim/Badges4-README.md-Profile
@@ -45,9 +31,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 -  Assim você deve criar uma tag por exemplo: img <img src="BadgeURLHere"
 
-*OBS Já deixei uma pronta abaixo.
-
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<img height= "20" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 -  Agora basta copiar para seu README e a mágica acontece.
 
