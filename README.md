@@ -6,7 +6,7 @@
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm a Full-Stack Developer!
 
 :house_with_garden: I’m from Brazil.
 
@@ -22,7 +22,7 @@
 
 <hr>
 
-<img height= "20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img height= "30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=Kywal)](https://github.com/Kywal/github-readme-stats)
 
