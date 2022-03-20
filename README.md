@@ -30,9 +30,9 @@
 
 *OBS onde está escrito em maiúsculo você deve escrever suas informações:
 
-(SEU NOME) = Hellen.
+(SEU NOME) = Kywal.
 
-LINK_GIT = https://github.com/hellenmas.
+LINK_GIT = https://github.com/Kywal.
 
 Aqui está alguns itens que você pode adicionar ao seu arquivo README para torná-lo mais atraente:
 
@@ -62,9 +62,9 @@ https://github.com/anuraghazra/github-readme-stats#themes
 
 - Mas não se esqueça que você deve editar com suas informações por exemplo:
 
-NOMEGIT= hellenmas. 
+NOMEGIT= Kywal. 
 
-[![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/hellenmas/github-readme-stats)
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/hellenmas/github-readme-stats)
 
 GIF
 - Encontre o gif que mais combina com você nesse link:
@@ -79,6 +79,8 @@ Imagem
 1. Você pode usar qualquer imagem que aceite markdown no Github. Se quiser pegar a imagem de algum repositório, pode usar o seguinte formato:
 
 <img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_aqui">
+
+
 <!--
 **Kywal/Kywal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
