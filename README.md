@@ -22,6 +22,10 @@ Eu sou um desenvolvedor brasileiro que ama lógica e resolução de problemas e 
 ### Details/Detalhes 
 ![Kywal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kywal&theme=aura&show_icons=true)
 
+### Most Used Languages     
+
+[![Kywal](https://github-readme-stats.vercel.app/api/top-langs/?username=Kywal&hide=html&layout=compact&theme=aura)](https://github.com/Kywal/)
+     
 <hr> 
  
 ## Contacts
