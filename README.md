@@ -10,7 +10,7 @@ Eu sou um desenvolvedor brasileiro que ama lógica e resolução de problemas e 
  
 ## About Kywal/Sobre Kywal:
 
-### Skill/Habilidades
+### Skills/Habilidades
 <img height= "25" width="60px" border-radius="10px" src="https://img.shields.io/badge/Git-E34F26?style=flat-badge&logo=git&logoColor=white"> 
 <img height= "25" width="80px" border-radius="10px" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-badge&logo=html5&logoColor=white">
 <img height= "25" width="70px" border-radius="10px" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-badge&logo=css3&logoColor=white">
