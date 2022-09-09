@@ -8,18 +8,17 @@ Eu sou um desenvolvedor brasileiro que ama lógica e resolução de problemas e 
 
 <hr> 
  
-## About Kywal/Sobre Kywal:
+## About Kywal:
 
-### Skills/Habilidades
+### Skills
 <img height= "25" width="60px" border-radius="10px" src="https://img.shields.io/badge/Git-E34F26?style=flat-badge&logo=git&logoColor=white"> 
-<img height= "25" width="80px" border-radius="10px" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-badge&logo=html5&logoColor=white">
-<img height= "25" width="70px" border-radius="10px" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-badge&logo=css3&logoColor=white">
-<img height= "25" width="60px" border-radius="10px" src="https://img.shields.io/badge/Java-EE0000?style=flat-badge&logo=java">
-<img height= "25" width="70px" border-radius="10px" src="https://img.shields.io/badge/PHP-777BB4?style=flat-badge&logo=php&logoColor=white"> 
-<img height= "25" width="80px" border-radius="10px" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-badge&logo=laravel&logoColor=white">
-<img height= "25" width="100px" border-radius="10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=javascript&logoColor=black"> 
+<img height= "25" width="80px" border-radius="10px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png">
+<img height= "25" width="70px" border-radius="10px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png">
+<img height= "25" width="80px" border-radius="10px" src="https://cdn.icon-icons.com/icons2/2530/PNG/128/java_button_icon_151928.png">
+<img height= "25" width="70px" border-radius="10px" src="https://cdn.icon-icons.com/icons2/2530/PNG/128/php_button_icon_151926.png"> 
+
  
-### Details/Detalhes 
+### Details 
 ![Kywal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kywal&theme=aura&show_icons=true)
 
 ### Most Used Languages     
