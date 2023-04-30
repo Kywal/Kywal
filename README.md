@@ -2,7 +2,7 @@
      
 ## Hello/Olá 👋 
 
-I'm Brazilian developer who loves logic and problem-solving, and wants to have positive impacts on society trough technology :computer:.
+I'm Brazilian developer who loves logic and problem-solving, and wants to have positive impacts on society through technology :computer:.
  
 Eu sou um desenvolvedor brasileiro que ama lógica e resolução de problemas e que quer ter impactos positivos na sociedade através da tecnologia :computer:.
 
