@@ -2,20 +2,22 @@
      
 ## Hello/Olá 👋 
 
-I'm Brazilian developer who loves logic and problem-solving that dreams about having positive impacts on society through technology :computer:.
+I'm Brazilian developer who loves logic, matemathics and problem-solving and that dreams about having positive impacts on society through technology :computer:.
  
-Eu sou um desenvolvedor brasileiro que ama lógica e resolução de problemas que sonha sobre ter impactos positivos na sociedade através da tecnologia :computer:.
+Eu sou um desenvolvedor brasileiro que ama lógica, matemática e resolução de problemas e que sonha sobre ter impactos positivos na sociedade através da tecnologia :computer:.
 
 <hr> 
  
 ## About Kywal:
 
 ### Skills
-<img height= "25" width="60px" border-radius="10px" src="https://img.shields.io/badge/Git-E34F26?style=flat-badge&logo=git&logoColor=white"> 
-<img height= "25" width="80px" border-radius="10px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png">
-<img height= "25" width="70px" border-radius="10px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png">
-<img height= "25" width="80px" border-radius="10px" src="https://cdn.icon-icons.com/icons2/2530/PNG/128/java_button_icon_151928.png">
-<img height= "25" width="70px" border-radius="10px" src="https://cdn.icon-icons.com/icons2/2530/PNG/128/php_button_icon_151926.png"> 
+<img height="25px" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">  
+<img height="25px" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">  
+<img height="25px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">  
+<img height="25px" src="https://img.shields.io/badge/Java-DC322F?style=flat&logo=BuyMeACoffee&logoColor=white">  
+<img height="25px" src="https://img.shields.io/badge/C%2B%2B-000000?style=flat&logo=c%2B%2B&logoColor=white">  
+<img height="25px" src="https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white">  
+
 
  
 ### Details 
