@@ -2,9 +2,9 @@
      
 ## Hello/Olá 👋 
 
-I'm Brazilian developer who loves logic, matemathics and problem-solving and that dreams about having positive impacts on society through technology :computer:.
+I'm a Brazilian developer who loves logic, matemathics, problem-solving and dreams about having positive impacts on society through technology :computer:.
  
-Eu sou um desenvolvedor brasileiro que ama lógica, matemática e resolução de problemas e que sonha sobre ter impactos positivos na sociedade através da tecnologia :computer:.
+Eu sou um desenvolvedor brasileiro que ama lógica, matemática, resolução de problemas e que sonha sobre ter impactos positivos na sociedade através da tecnologia :computer:.
 
 <hr> 
  
