@@ -1,14 +1,8 @@
 <div align= "center">
      
-## Hello/Olá 👋 
+## Hi, my name is Kywal 👋 
 
 I'm a Brazilian developer who loves logic, matemathics, problem-solving and dreams about having positive impacts on society through technology :computer:.
- 
-Eu sou um desenvolvedor brasileiro que ama lógica, matemática, resolução de problemas e que sonha sobre ter impactos positivos na sociedade através da tecnologia :computer:.
-
-<hr> 
- 
-## About Kywal:
 
 ### Skills
 <img height="25px" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">  
@@ -18,8 +12,6 @@ Eu sou um desenvolvedor brasileiro que ama lógica, matemática, resolução de 
 <img height="25px" src="https://img.shields.io/badge/C%2B%2B-000000?style=flat&logo=c%2B%2B&logoColor=white">  
 <img height="25px" src="https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white">  
 
-
- 
 ### Details 
 ![Kywal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kywal&theme=aura&show_icons=true)
 
