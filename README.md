@@ -1,10 +1,21 @@
-<div align= "center">
+<div>
      
-## Hi, my name is Kywal 👋 
+## Hi, I'm Emanuel Kywal 🌞
 
-I'm a Brazilian developer who loves logic, matemathics, problem-solving and dreams about having positive impacts on society through technology :computer:.
+I'm a Brazilian developer who loves logic, matemathics, problem-solving and dreams about having positive impacts on society through technology :computer:
 
-### Skills
+- 🎒 Technician in informatics for the IFRN 🏫
+- 👨‍🎓 Currently studying for my bachelor degree in IT and Computer Science, just as for a few other subjects like software(mostly web) development and algebra   
+- 📚🎥 I enjoy books, movies and many other ways to listen to a good story.
+
+<br>
+<div align="center">
+
+<img height="155px" src="https://github-readme-stats.vercel.app/api?username=Kywal&theme=aura&show_icons=true">
+<img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kywal&hide=html&layout=compact&langs_count=7&theme=aura">
+</div>
+
+## Stacks
 <img height="25px" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">  
 <img height="25px" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">  
 <img height="25px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">  
@@ -12,16 +23,8 @@ I'm a Brazilian developer who loves logic, matemathics, problem-solving and drea
 <img height="25px" src="https://img.shields.io/badge/C%2B%2B-000000?style=flat&logo=c%2B%2B&logoColor=white">  
 <img height="25px" src="https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white">  
 
-### Details 
-![Kywal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kywal&theme=aura&show_icons=true)
-
-### Most Used Languages     
-
-[![Kywal](https://github-readme-stats.vercel.app/api/top-langs/?username=Kywal&hide=html&layout=compact&theme=aura)](https://github.com/Kywal/)
-     
-<hr> 
  
-## Contacts
+## Contact me
 <a href="https://github.com/Kywal" target="_blank"> <img height= "25" width="80px" border-radius="10px" src="https://img.shields.io/badge/-Github-000?style=flat-badge&logo=Github&logoColor=white&link=LINK_GIT"> </a>
 <a href="https://www.linkedin.com/in/emanuelkywal" target="_blank"> <img height= "25" width="80px" border-radius="10px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-badge&logo=linkedin&logoColor=white"> </a> 
  
