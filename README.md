@@ -2,8 +2,9 @@
 
 I'm a Brazilian developer who loves logic, matemathics, problem-solving and dreams about having positive impacts on society through technology :computer:
 
-- 🎒 Technician in informatics for the IFRN 🏫
-- 👨‍🎓 Currently studying for my bachelor degree in IT and Computer Science, just as for a few other subjects like software(mostly web) development and algebra   
+- <img height="15px" src="https://ead.ifrn.edu.br/portal/wp-content/uploads/2019/03/logo.3fd3099d4d22472cb384.png"> Technician in informatics for the IFRN 🎒
+- 👨‍🎓 Currently studying for my bachelor degree in IT and Computer Science, just as for a few other subjects like software(mostly web) development and algebra.
+-  <img height="15px" src="https://minhabiblioteca.com.br/wp-content/uploads/2021/04/ufrn-logo.png"> If you're an university colleague or just want to check the programs that I've been coding for university-related studies, check this organization here: <a href="https://github.com/UFRN-BTI">UFRN-BTI</a>
 - 📚🎥 I enjoy books, movies and many other ways to listen to a good story.
 
 <br>
