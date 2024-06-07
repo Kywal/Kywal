@@ -12,7 +12,7 @@ I'm a Brazilian developer who loves logic, matemathics, problem-solving and drea
 
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Kywal&theme=midnight-purple&show_icons=true&hide=stars">
 <span></span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kywal&hide=html&layout=compact&langs_count=7&theme=midnight-purple">
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kywal&hide=html,css&layout=compact&langs_count=7&theme=midnight-purple">
 
 </div>
 
