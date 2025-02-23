@@ -18,13 +18,15 @@ I'm a Brazilian developer who loves logic, matemathics, problem-solving and drea
 
 ## Stack
 <div>
-<img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png"> 
-<img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png"> 
-<img height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"> 
-<img height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png"> 
-<img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png"> 
+<img height="42" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"> 
+<img height="42" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"> 
+<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"> 
+<img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+<img height="35" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png"> 
+<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"> 
 <img height="40" src="https://images.contentstack.io/v3/assets/blt39790b633ee0d5a7/blt4f779d1b4fd496c5/647a2f42d88bb100a5216601/spring.webp"> 
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"> 
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
+<img height="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
 <img height="40" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png">  
 </div>
  
